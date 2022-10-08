@@ -23,6 +23,7 @@ pacman.exe -save for saving game mode.
 pacman.exe -load for load mode.
 pacman.exe -load -silent for silent mode.
 Simple mode and Load mode demonstration:
+
 ![Select_C__Users_amirk_OneDrive_-_The_Academic_College_of_Tel-Aviv_Jaffa_-_MTA_cpp_pacman_ex3_v5_x64_Debug_pacman_ex2_v1_exe_2022-10-08_19-40-07_AdobeExpress (1)](https://user-images.githubusercontent.com/88038376/194718712-dc47330a-7597-45f9-b8f0-b0b3f0fc8b80.gif)
 
 Other contributors:
